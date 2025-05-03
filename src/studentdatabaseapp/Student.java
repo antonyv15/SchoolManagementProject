@@ -11,6 +11,7 @@ public class Student {
     private int tuitionBalance = 0;
     private static int costOfCourse = 600;
     private static int id = 1000;
+    public String tonyBranch;
 
     //Constructor: prompt user to enter student's name and year
     public Student() {
